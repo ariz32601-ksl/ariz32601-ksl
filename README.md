@@ -10,7 +10,7 @@ ARM64/CUDA compute.
   assembly index, compression baselines, and scale-controlled natural-product
   benchmarking (`N = 626,131`).
 
-### Pinned repositories
+### Feature repositories
 
 * **[molecular-assembly-benchmarks](https://github.com/ariz32601-ksl/molecular-assembly-benchmarks)**
   — audit scripts, schema-governed SQLite/Parquet data dictionary, and SHA-256
@@ -18,6 +18,10 @@ ARM64/CUDA compute.
 * **[evo2-silicon](https://github.com/ariz32601-ksl/evo2-silicon)** — native Apple
   Silicon (MPS / BFloat16) execution for Arc Institute's Evo 2
   ([upstream issue #222](https://github.com/ArcInstitute/evo2/issues/222)).
+
+
+### Archived 
+
 * **[Distributed_Assembly_Theory](https://github.com/ariz32601-ksl/Distributed_Assembly_Theory)**
   *(archived v1)* — historical May–June prototype, superseded by
   `molecular-assembly-benchmarks` and ChemRxiv v3.
