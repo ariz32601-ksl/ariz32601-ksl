@@ -13,8 +13,7 @@ ARM64/CUDA compute.
 ### Feature repositories
 
 * **[molecular-assembly-benchmarks](https://github.com/ariz32601-ksl/molecular-assembly-benchmarks)**
-  — audit scripts, schema-governed SQLite/Parquet data dictionary, and SHA-256
-  manifests for 695,133 COCONUT 2.0 natural products.
+  — Exact molecular assembly indices and compression baselines for the 626,131-record COCONUT cohort analyzed in Paper 3.
 * **[evo2-silicon](https://github.com/ariz32601-ksl/evo2-silicon)** — native Apple
   Silicon (MPS / BFloat16) execution for Arc Institute's Evo 2
   ([upstream issue #222](https://github.com/ArcInstitute/evo2/issues/222)).
