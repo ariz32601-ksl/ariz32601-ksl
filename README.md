@@ -20,7 +20,7 @@ ARM64/CUDA compute.
 
 ### Research in progress
 
-* [CU-NO research statement](RESEARCH_STATEMENT.md) · [PDF](RESEARCH_STATEMENT.pdf)
+* [CU-NO research statement](RESEARCH_STATEMENT.md) · [PDF](RESEARCH_STATEMENT_PRINT.pdf)
 
 ### Archived 
 
