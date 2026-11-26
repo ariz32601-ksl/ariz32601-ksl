@@ -6,14 +6,14 @@ benchmarks, and physics-governed machine-learning pipelines across heterogeneous
 ARM64/CUDA compute.
 
 * **ORCID:** [0009-0008-4128-2071](https://orcid.org/0009-0008-4128-2071)
-* **Preprints:** two published + one submitted (ChemRxiv, 2026) on exact molecular
+* **Preprints:** Three ChemRxiv preprints (ChemRxiv, 2026) on exact molecular
   assembly index, compression baselines, and scale-controlled natural-product
   benchmarking (`N = 626,131`).
 
 ### Feature repositories
 
 * **[molecular-assembly-benchmarks](https://github.com/ariz32601-ksl/molecular-assembly-benchmarks)**
-  — Exact molecular assembly indices and compression baselines for the 626,131-record COCONUT cohort analyzed in Paper 3.
+  — exact molecular assembly indices and compression baselines for the 626,131-record COCONUT cohort analyzed in Paper 3.
 * **[evo2-silicon](https://github.com/ariz32601-ksl/evo2-silicon)** — native Apple
   Silicon (MPS / BFloat16) execution for Arc Institute's Evo 2
   ([upstream issue #222](https://github.com/ArcInstitute/evo2/issues/222)).
