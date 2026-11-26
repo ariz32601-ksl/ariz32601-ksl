@@ -18,6 +18,9 @@ ARM64/CUDA compute.
   Silicon (MPS / BFloat16) execution for Arc Institute's Evo 2
   ([upstream issue #222](https://github.com/ArcInstitute/evo2/issues/222)).
 
+### Research in progress
+
+* [CU-NO research statement](RESEARCH_STATEMENT.md) · [PDF](RESEARCH_STATEMENT.pdf)
 
 ### Archived 
 
