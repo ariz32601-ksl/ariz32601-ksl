@@ -20,17 +20,17 @@ ARM64/CUDA compute.
 
 ### Research in progress
 
-* [CU-NO research statement](RESEARCH_STATEMENT.md) · [PDF](RESEARCH_STATEMENT_PRINT.pdf)
+* **[CU-NO research statement](RESEARCH_STATEMENT.md)** · [PDF](RESEARCH_STATEMENT_PRINT.pdf)
 
-### Archived 
+### Archived
 
 * **[Distributed_Assembly_Theory](https://github.com/ariz32601-ksl/Distributed_Assembly_Theory)**
   *(archived v1)* — historical May–June prototype, superseded by
   `molecular-assembly-benchmarks` and ChemRxiv v3.
 
-### Related preprints
+### Publications & data
 
-- [Paper 1 · Process-Isolated Molecular Assembly Benchmarking (v3)](https://doi.org/10.26434/chemrxiv.15004164/v3)
-- [Paper 2 · Molecular Assembly Enumeration vs. 1D Dictionary Compression (v1)](https://doi.org/10.26434/chemrxiv.15012530/v1)
-- [Paper 3 · Scale-Controlled Evaluation of Exact Molecular Assembly Index and Compression Baselines Across 626,131 Natural Products](https://doi.org/10.26434/chemrxiv.15012760/v1)
-- [Dataset · verified 626,131-record COCONUT 2.0 companion](https://doi.org/10.5281/zenodo.24544551)
+- **[Paper 1 · Process-Isolated Molecular Assembly Benchmarking (v3)](https://doi.org/10.26434/chemrxiv.15004164/v3)**
+- **[Paper 2 · Molecular Assembly Enumeration vs. 1D Dictionary Compression (v1)](https://doi.org/10.26434/chemrxiv.15012530/v1)**
+- **[Paper 3 · Scale-Controlled Evaluation of Exact Molecular Assembly Index and Compression Baselines Across 626,131 Natural Products](https://doi.org/10.26434/chemrxiv.15012760/v1)**
+- **[Dataset · Verified 626,131-record COCONUT 2.0 companion](https://doi.org/10.5281/zenodo.24544551)**
