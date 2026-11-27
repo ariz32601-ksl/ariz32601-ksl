@@ -28,7 +28,7 @@ ARM64/CUDA compute.
   *(archived v1)* — historical May–June prototype, superseded by
   `molecular-assembly-benchmarks` and ChemRxiv v3.
 
-## Related preprints
+### Related preprints
 
 - [Paper 1 · Process-Isolated Molecular Assembly Benchmarking (v3)](https://doi.org/10.26434/chemrxiv.15004164/v3)
 - [Paper 2 · Molecular Assembly Enumeration vs. 1D Dictionary Compression (v1)](https://doi.org/10.26434/chemrxiv.15012530/v1)
