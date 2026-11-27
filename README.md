@@ -33,3 +33,4 @@ ARM64/CUDA compute.
 - [Paper 1 · Process-Isolated Molecular Assembly Benchmarking (v3)](https://doi.org/10.26434/chemrxiv.15004164/v3)
 - [Paper 2 · Molecular Assembly Enumeration vs. 1D Dictionary Compression (v1)](https://doi.org/10.26434/chemrxiv.15012530/v1)
 - [Paper 3 · Scale-Controlled Evaluation of Exact Molecular Assembly Index and Compression Baselines Across 626,131 Natural Products](https://doi.org/10.26434/chemrxiv.15012760/v1)
+- [Dataset · verified 626,131-record COCONUT 2.0 companion](https://doi.org/10.5281/zenodo.24544551)
